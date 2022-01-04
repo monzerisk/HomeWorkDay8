@@ -3,7 +3,7 @@ package loops;
 public class Quaestion2 {
 	
 	public static void main (String[] args) {
-		// for (init; boolean exp; increment) ( some code
+		// for (init; boolean exp; increment) ( some code )
 		for (int windspeed = 20; windspeed <= 200; windspeed++) {
 		// category 1
 		if (windspeed >= 74 && windspeed <= 95) {
